@@ -1,2 +1,2 @@
-var index = ("./index.js")
+var index = ("./index.js");
 console.log(index.name)
